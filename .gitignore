@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build files
+dist/
+build/
+out/
+*.exe
+*.msi
+
+# Dependency directories
+bower_components/
+jspm_packages/
+composer.lock
+
+# PHP composer dependencies
+vendor/
+
+# Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Other
+.DS_Store
+Thumbs.db
